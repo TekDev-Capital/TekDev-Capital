@@ -1,0 +1,7 @@
+@media (min-width:576px) {
+  .d-sm-flex {
+    display: flex!important;
+    background: rgba(255,255,255);
+  }
+}
+
